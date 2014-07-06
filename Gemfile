@@ -44,3 +44,4 @@ group :doc do
 end 
 gem "figaro"
 gem 'devise'
+gem 'sinatra'
